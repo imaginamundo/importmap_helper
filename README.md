@@ -14,7 +14,7 @@ To create and update importmap.json
 ## How to install
 Run the following command
 ```
-deno install importmap_helper --allow-read --allow-net --allow-write importmap.ts https://raw.githubusercontent.com/imaginamundo/dih/master/importmap.json
+deno install importmap_helper --allow-read --allow-net --allow-write importmap.ts https://raw.githubusercontent.com/imaginamundo/importmap_helper/master/importmap.json
 ```
 
 And then you'll gain access to importmap_helper on terminal.
